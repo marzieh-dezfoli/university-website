@@ -17,10 +17,8 @@ This is a **responsive** and **static** university website built using **HTML** 
 - **HTML5** - Structure of the website  
 - **CSS3** - Styling and layout  
 
-## 📦 Installation & Setup
+🎥 Demo Video
 
-To run this project locally, follow these steps:
+Watch the demo video on Telegram:
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/marzieh. dezfoli/university-website.git
+👉 [Click to watch the video https://t.me/MsdezfoliBestPortfolio
