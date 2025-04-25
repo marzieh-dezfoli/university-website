@@ -17,8 +17,3 @@ This is a **responsive** and **static** university website built using **HTML** 
 - **HTML5** - Structure of the website  
 - **CSS3** - Styling and layout  
 
-🎥 Demo Video
-
-Watch the demo video on Telegram:
-
-👉 [Click to watch the video https://t.me/MsdezfoliBestPortfolio
